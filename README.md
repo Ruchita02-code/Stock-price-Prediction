@@ -4,7 +4,7 @@ This project aims to predict stock prices using historical data with a deep lear
 
 ## Project Overview
 
-Predicting stock prices is a challenging task due to market volatility and external influences. This project focuses on analyzing historical stock prices of **Tesla Inc. (TSLA)** and predicting future closing prices using a Recurrent Neural Network (RNN) architecture — specifically, LSTM layers.
+Predicting stock prices is a challenging task due to market volatility and external influences. This project focuses on analyzing historical stock prices of **Google Inc. (GOOG)** and predicting future closing prices using a Recurrent Neural Network (RNN) architecture — specifically, LSTM layers.
 
 ## Technologies Used
 
@@ -18,7 +18,7 @@ Predicting stock prices is a challenging task due to market volatility and exter
 ## Dataset
 
 - The dataset is automatically retrieved using the `yfinance` Python module.  
-- **Stock Ticker**: TSLA (Tesla Inc.)  
+- **Stock Ticker**: GOOG (Google Inc.)  
 - Includes historical `Open`, `High`, `Low`, `Close`, and `Volume` values.  
 
 ## Model Architecture
